@@ -113,11 +113,3 @@ The syllabus has been taken from GeeksForGeeks Pandas tutorial.
 * Pandas Built-in Data Visualization
 * Data analysis and Visualization with Python
 * Box plot visualization with Pandas and Seaborn
-
-## Applications and Projects:
-
-* How to Do a vLookup in Python using pandas
-* Convert CSV to HTML Table in Python
-* KDE Plot Visualization with Pandas and Seaborn
-* Analyzing selling price of used cars
-* Add CSS to the Jupyter Notebook using Pandas
